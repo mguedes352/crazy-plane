@@ -1,4 +1,4 @@
-# grupode4
+# grupode4 - Crazy Plane 
 Repositório do grupo da turma 04J da disciplina de Jogos Digitais
 
 Formado por:
